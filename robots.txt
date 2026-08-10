@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: slot-olimpus-zevs.github.io
+Sitemap: https://slot-olimpus-zevs.github.io/sitemap.xml
